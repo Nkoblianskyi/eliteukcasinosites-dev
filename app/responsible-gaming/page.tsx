@@ -163,14 +163,14 @@ export default function ResponsibleGaming() {
                     href={org.href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="border border-border p-5 hover:border-accent/40 transition-colors duration-200 flex flex-col gap-3 group"
+                    className="border border-border  p-5 hover:border-accent/40 transition-colors duration-200 flex flex-col gap-3 group"
                   >
                     <Image
                       src={org.logo}
                       alt={org.name}
                       width={120}
                       height={36}
-                      className="object-contain h-8 w-auto opacity-70 group-hover:opacity-100 transition-opacity duration-200"
+                      className="object-contain bg-black h-8 w-auto opacity-70 group-hover:opacity-100 transition-opacity duration-200"
                     />
                     <div>
                       <p className="font-serif font-bold text-sm text-foreground mb-1 group-hover:text-accent transition-colors duration-200">{org.name}</p>
