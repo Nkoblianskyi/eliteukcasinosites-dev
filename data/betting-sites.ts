@@ -77,18 +77,6 @@ const rawSites: Omit<BettingSite, "score">[] = [
     link: "https://www.ladbrokes.com/",
     reviews: 6139,
   },
-  {
-    id: "spreadex",
-    name: "Spreadex Casino",
-    logo: "/spreadex.webp",
-    bonus: "£60 Casino Bonus",
-    welcomeOffer: "Deposit £10, Get £60 Casino Bonus",
-    terms: defaultTerms,
-    features: ["Live Casino", "Slots", "Instant Play"],
-    paymentMethods: ["Visa/Mastercard", "Bank Transfer"],
-    link: "https://www.spreadex.com/",
-    reviews: 5028,
-  },
 ]
 
 export const bettingSites: BettingSite[] = rawSites.map((site, index) => ({
