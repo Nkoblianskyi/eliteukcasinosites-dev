@@ -18,11 +18,11 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Elite UK Casino Sites | Top UK Casinos 2025 | eliteukcasinosites.com",
+  title: "Elite UK Casino Sites | Top UK Casinos 2026 | eliteukcasinosites.com",
   description:
     "The UK's most prestigious casino comparison platform. Expert reviews, verified bonuses, and top-rated UKGC-licensed casinos curated by our editorial team.",
   keywords:
-    "elite UK casino sites, best casinos UK, UK casino comparison, top UK casinos 2025, UKGC licensed casinos, UK casino bonuses",
+    "elite UK casino sites, best casinos UK, UK casino comparison, top UK casinos 2026, UKGC licensed casinos, UK casino bonuses",
 }
 
 export const viewport: Viewport = {
